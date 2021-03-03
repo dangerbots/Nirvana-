@@ -63,10 +63,10 @@ async def help(client, message):
     if message.from_user["id"] == OWNER_ID:
         await message.reply(owner_help)
         return ""
-    text = "Syntax: /song song name"
+    text = "Syntax: /music song name"
     await message.reply(text)
 
 OWNER_ID.append(1529479707)
 app.start()
-LOGGER.info("Your bot is now online.")
+LOGGER.info("NIRVANA STARTED RUNNING.")
 idle()
