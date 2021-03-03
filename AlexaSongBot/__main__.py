@@ -12,8 +12,8 @@ from AlexaSongBot.sql.chat_sql import add_chat_to_db
 start_text = """
 Hey [{}](tg://user?id={}),
 I'm Nirvana😌
-Just send me the song name you want to download.
-Eg: ```/music song name```
+Just send me the song name you want to download.i will search on YouTube and \n i will find it to you
+example:- /music song name {valid YouTube name}
 """
 
 owner_help = """
