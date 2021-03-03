@@ -4,8 +4,8 @@
 
 # Alexa Song Bot
 ![logo](https://telegra.ph/file/92286679d79692b26a2a7.jpg)
-Reach me on Telegram [ALEXA 📻](https://t.me/alexasongbot)
+Reach me on Telegram [NIRVANA](http://t.me/pikachu_musicbot)
 
 ## How To Host
 The easiest way to deploy this Song Bot
-<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/Mr-Dark-Prince/AlexaSongBot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a></p>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/piku-adhi/Nirvana-"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku" width="210" height="34.45"/></a></p>
