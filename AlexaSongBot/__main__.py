@@ -11,7 +11,7 @@ from AlexaSongBot.sql.chat_sql import add_chat_to_db
 
 start_text = """
 Hey [{}](tg://user?id={}),
-I'm Nirvana[😌](https://telegra.ph/file/d9779732beb31e470b763.jpg)
+I'm Nirvana😌
 
 
 
@@ -19,7 +19,7 @@ I'm Nirvana[😌](https://telegra.ph/file/d9779732beb31e470b763.jpg)
 Just send me the song name you want to download.i will search on YouTube and \n i will find it to you
 example:- /music song name [valid YouTube name]
 """
-
+START_IMG = os.environ.get('START_IMG')
 owner_help = """
 /blacklist user_id
 /unblacklist user_id
