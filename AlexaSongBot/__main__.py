@@ -37,7 +37,11 @@ async def start(client, message):
                     InlineKeyboardButton(
                         text="😋Source Code😋", url="https://github.com/piku-adhi/Nirvana-"
                     )
-                ]
+                [
+                    InlineKeyboardButton(
+                        text="ADD NIRVANA TO YOUR GROUP🧲*", url="http://t.me/pikachu_musicbot?startgroup=true"
+                    )
+                
             ]
         )
     else:
