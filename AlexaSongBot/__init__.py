@@ -9,4 +9,4 @@ logging.basicConfig(
 
 LOGGER = logging.getLogger(__name__)
 
-app = Client("AlexaSongBot", bot_token=BOT_TOKEN, api_hash=API_HASH, api_id=API_ID, START_IMG=START_IMG)
+app = Client("AlexaSongBot", bot_token=BOT_TOKEN, api_hash=API_HASH, api_id=API_ID, start_=START_IMG)
