@@ -11,7 +11,7 @@ from AlexaSongBot.sql.chat_sql import add_chat_to_db
 
 start_text = """
 Hey [{}](tg://user?id={}),
-I'm [Nirvana😌]
+I'm [Nirvana😌](https://telegra.ph/file/7cf7cf3ccca5d6a4f0625.jpg)
 
 
 
