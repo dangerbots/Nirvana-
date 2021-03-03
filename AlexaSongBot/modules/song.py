@@ -5,7 +5,7 @@ from pytube import YouTube
 from pyrogram.types import InlineKeyboardMarkup
 from pyrogram.types import InlineKeyboardButton
 from youtubesearchpython import VideosSearch
-from AlexaSongBot.mrdarkprince import ignore_blacklisted_users, get_arg
+from AlexaSongBot.pikachu import ignore_blacklisted_users, get_arg
 from AlexaSongBot import app, LOGGER
 from AlexaSongBot.sql.chat_sql import add_chat_to_db
 
