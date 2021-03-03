@@ -1,1 +1,1 @@
-worker: python3 -m Nirvana 
+worker: python3 -m AlexaSongBot
