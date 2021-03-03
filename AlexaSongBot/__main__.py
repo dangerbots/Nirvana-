@@ -44,7 +44,7 @@ async def start(client, message):
                     )
                  ]
                 
-            ]
+            
         )
     else:
         btn = None
