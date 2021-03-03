@@ -4,7 +4,7 @@ from pyrogram import filters
 from pyrogram.errors import BadRequest
 from AlexaSongBot import app
 import AlexaSongBot.sql.blacklist_sql as sql
-from AlexaSongBot.mrdarkprince import get_arg
+from AlexaSongBot.pikachu import get_arg
 
 
 @app.on_message(filters.user(OWNER_ID) & filters.command("blacklist"))
