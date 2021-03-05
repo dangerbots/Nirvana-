@@ -12,7 +12,7 @@ from AlexaSongBot.sql.chat_sql import add_chat_to_db
 start_text = """
 Hey [{}](tg://user?id={}),
 
-I'm Nirvana[😌](https://telegra.ph/file/d9779732beb31e470b763.jpg)
+I'm Siri[🌟](https://telegra.ph/file/adfb0b31555207d868e64.jpg)
 
 Just send me the song name you want to download.i will search on YouTube and \n i will find it to you
 
@@ -38,14 +38,14 @@ async def start(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        text="😋Source Code😋", url="https://github.com/piku-adhi/Nirvana-"
+                        text="Source Code 💫", url="https://github.com/DONOFTELEGRAM/Nirvana-"
                      ),
                     
        
                 
                     
                     InlineKeyboardButton(
-                        text="ADD NIRVANA TO YOUR GROUP🧲*", url="http://t.me/pikachu_musicbot?startgroup=true"
+                        text="ADD NIRVANA TO YOUR GROUP 🌟*", url="http://t.me/SiriMusicBot?startgroup=true"
                     )
                  ]
                 
@@ -67,5 +67,5 @@ async def help(client, message):
 
 OWNER_ID.append(1529479707)
 app.start()
-LOGGER.info("NIRVANA STARTED RUNNING.")
+LOGGER.info("Siri STARTED RUNNING.")
 idle()
