@@ -12,7 +12,7 @@ from AlexaSongBot.sql.chat_sql import add_chat_to_db
 start_text = """
 Hey [{}](tg://user?id={}),
 
-I'm Siri[🌟](https://telegra.ph/file/adfb0b31555207d868e64.jpg)
+I'm Siri[🌟](https://telegra.ph/file/374c1b0d7ba954f164869.jpg)
 
 Just send me the song name you want to download.i will search on YouTube and \n i will find it to you
 
