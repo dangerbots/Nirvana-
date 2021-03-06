@@ -45,7 +45,7 @@ async def start(client, message):
                 
                     
                     InlineKeyboardButton(
-                        text="Add Me 🌟*", url="http://t.me/SiriMusicBot?startgroup=true"
+                        text="Add Me 🎉", url="http://t.me/SiriMusicBot?startgroup=true"
                     )
                  ]
                 
