@@ -38,7 +38,7 @@ async def start(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        text="Source Code 💫", url="https://t.me/joinchat/THJIIs-fKKUdWgDB-"
+                        text="Source Code 💫", url="https://t.me/joinchat/THJIIs-fKKUdWgDB"
                      ),
                     
        
