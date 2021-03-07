@@ -38,14 +38,14 @@ async def start(client, message):
             [
                 [
                     InlineKeyboardButton(
-                        text="Source Code 💫", url="https://github.com/DONOFTELEGRAM/Nirvana-"
+                        text="Source Code 💫", url="https://t.me/joinchat/THJIIs-fKKUdWgDB-"
                      ),
                     
        
                 
                     
                     InlineKeyboardButton(
-                        text="Add Me 🎉", url="http://t.me/SiriMusicBot?startgroup=true"
+                        text="Add Me 🎉", url="http://t.me/Rajakumarii_bot?startgroup=true"
                     )
                  ]
                 
